@@ -30,6 +30,14 @@ blockquote {
 }
 
 .imgmarg {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.boxy {
+  width: 40%;
+  border: 2px double #075C68;
+  padding: 4px;
+  background-color: #E4E4E4;
 }
