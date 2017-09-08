@@ -37,7 +37,10 @@ blockquote {
 
 .boxy {
   width: 40%;
-  border: 2px double #075C68;
-  padding: 4px;
+  border: 10px double #075C68;
+  padding-left: 30px;
+  padding-right: 15px;
+  padding-top: 30px;
+  padding-bottom: 10px;
   background-color: #E4E4E4;
 }
