@@ -28,3 +28,8 @@ blockquote {
   font-weight: bold;
   font-style: italic;
 }
+
+.imgmarg {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
