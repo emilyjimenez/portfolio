@@ -11,7 +11,7 @@ _Made a webpage to host information about me, my skill set, past marketing proje
 * computer
 * internet connection
 * web browser
-* _optional:_ terminal
+* optional: terminal
 
 1. Go to [https://github.com/emilyjimenez/portfolio](https://github.com/emilyjimenez/portfolio)
 2. Download file, clone repository in terminal, or go to [https://emilyjimenez.github.io/portfolio/](https://emilyjimenez.github.io/portfolio/)
